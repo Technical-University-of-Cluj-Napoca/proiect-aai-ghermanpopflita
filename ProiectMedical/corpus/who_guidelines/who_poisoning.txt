@@ -1,0 +1,11 @@
+WHO Guidelines for the Management of Common Chemical Poisonings and Overdoses
+Document Code: WHO/IPCS/TOX.2025
+General Triage in Poisoning and Overdose:
+1. Airway protection is critical, especially in cases of opioid or sedative overdose where respiratory drive is suppressed (GCS <= 8).
+2. Gastric decontamination: Activated charcoal (1 g/kg) is highly effective if given within 1 hour of ingestion, provided the patient has an intact airway or is intubated.
+3. Specific Antidotes:
+   - Opioid Overdose (morphine, heroin, fentanyl): Administer Naloxone (0.4 mg IV/IM, repeated as needed).
+   - Paracetamol Overdose: Administer intravenous Acetylcysteine (NAC) based on serum levels.
+   - Benzodiazepine Overdose: Flumazenil (use with caution due to seizure risk).
+   - Organophosphate Poisoning: Atropine and Pralidoxime.
+Evidence Level: A

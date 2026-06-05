@@ -1,0 +1,11 @@
+EAN/EFNS Guidelines on the Diagnostic Evaluation of Coma and Altered States of Consciousness
+European Academy of Neurology (EAN) Guidelines
+Diagnostic Workflow:
+Altered states of consciousness (ASC) include coma, vegetative state, and minimally conscious state.
+Immediate evaluation includes:
+1. Neurological exam: Pupils (size, symmetry, response to light), brainstem reflexes (corneal, oculocephalic), motor response to pain.
+2. Glasgow Coma Scale (GCS) scoring.
+3. Diagnostic testing: Head CT (rule out hemorrhage, mass lesion, herniation), EEG (rule out non-convulsive status epilepticus), Lumbar Puncture (if meningitis/encephalitis suspected and no mass lesion on CT).
+4. Lab testing: Metabolic panel, arterial blood gas, toxicology screen (drug levels, opioids, benzodiazepines).
+Airway protection (endotracheal intubation) is indicated for GCS <= 8.
+Evidence Level: B

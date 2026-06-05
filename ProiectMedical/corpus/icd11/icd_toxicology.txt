@@ -1,0 +1,6 @@
+ICD-11 Classification of Poisonings and Overdoses
+Code: NE61 - Harmful effects of and poisoning by drugs, medicaments and biological substances
+NE61.0 - Poisoning by nonopioid analgesics, antipyretics and antirheumatics: Includes acute paracetamol (acetaminophen) poisoning. May lead to acute hepatic failure (ICD-11 code: 5A01).
+NE61.1 - Poisoning by psychotropic agents: Includes benzodiazepines, tricyclic antidepressants.
+NE61.2 - Poisoning by narcotics and psychodysleptics: Includes acute opioid poisoning (heroin, methadone, fentanyl) presenting with respiratory depression, miosis (pinpoint pupils), and coma.
+Evidence Level: B

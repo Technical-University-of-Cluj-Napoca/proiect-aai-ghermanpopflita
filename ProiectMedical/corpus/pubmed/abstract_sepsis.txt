@@ -1,0 +1,4 @@
+PMID: 30123456
+Title: Clinical Significance of Sepsis-3 Criteria in the Intensive Care Unit: A Prospective Cohort Study.
+Abstract: The Sepsis-3 definition, which defines sepsis as life-threatening organ dysfunction caused by a dysregulated host response to infection, utilizes the Sequential Organ Failure Assessment (SOFA) score. Organ dysfunction is identified by an acute change in total SOFA score >= 2 points consequent to the infection. In out-of-ICU settings, the quick SOFA (qSOFA) clinical score is used to identify patients at risk of poor outcomes, using three criteria: respiratory rate >= 22/min, altered mentation, and systolic blood pressure <= 100 mmHg. Our study shows that a SOFA score increase of 2 points or more is associated with an in-hospital mortality rate of over 10%. Early recognition and immediate antibiotic administration within 1 hour of recognition are vital for survival.
+Evidence Level: A

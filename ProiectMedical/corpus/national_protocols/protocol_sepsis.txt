@@ -1,0 +1,14 @@
+Protocol Clinic National privind Managementul Sepsisului la Adult
+Ministerul Sanatatii Romania, Ordinul nr. 1042/2025
+Triage si Diagnostic:
+Orice pacient febril (temperatura > 38.3°C sau < 36.0°C) suspect de o sursa de infectie trebuie evaluat pentru disfunctie de organ folosind criteriile qSOFA si SOFA.
+Criterii de alarma imediata (qSOFA >= 2):
+- Frecventa respiratorie >= 22 respiratii/minut.
+- Alterarea starii de constienta (GCS < 15).
+- Tensiunea arteriala sistolica <= 100 mmHg.
+Conduita in caz de suspiciune de sepsis:
+- Recoltare hemoculturi (minim doua seturi) inainte de administrarea antibioticului, fara a intarzia terapia.
+- Masurare acid lactic seric (lactat).
+- Administrare de fluide intravenoase (30 ml/kg solutie cristaloida) in primele 3 ore daca lactatul este >= 4 mmol/L sau exista hipotensiune arteriala (TA sistolica < 90 mmHg).
+- Initiere terapie antibiotica cu spectru larg pe cale IV in prima ora (Golden Hour).
+Evidence Level: A

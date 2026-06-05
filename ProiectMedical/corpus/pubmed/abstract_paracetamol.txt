@@ -1,0 +1,4 @@
+PMID: 36789012
+Title: Management of Acute Acetaminophen Overdose and Acetylcysteine Therapy.
+Abstract: Acute paracetamol (acetaminophen) overdose is a common cause of drug-induced acute liver failure. Toxicity is determined by plotting the serum paracetamol concentration against the time since ingestion on the Rumack-Matthew nomogram, starting 4 hours post-ingestion. Patients with levels above the treatment line (150 mg/L at 4 hours) should receive intravenous acetylcysteine (N-acetylcysteine or NAC). The protocol involves a loading dose (150 mg/kg over 1 hour), followed by a second dose (50 mg/kg over 4 hours), and a third dose (100 mg/kg over 16 hours). Gastric lavage and activated charcoal are beneficial if administered within 1-2 hours of ingestion.
+Evidence Level: A
