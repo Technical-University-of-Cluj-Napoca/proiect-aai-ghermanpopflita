@@ -1,0 +1,14 @@
+.env
+vectorstore/
+__pycache__/
+*.pyc
+logs/run_*.json
+logs/escalations.txt
+data/*_parsed.json
+data/*_diagnosis.json
+pdf_output.txt
+pdfplumber/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
