@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  medical-assistant:
+    build: .
+    container_name: medical_triage_assistant
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      # Mount vectorstore directory as a persistent volume to avoid re-indexing
+      - ./vectorstore:/app/vectorstore
+      # Mount logs and data locally to audit runs, escalations and diagnosis results
+      - ./logs:/app/logs
+      - ./data:/app/data
+    restart: unless-stopped
