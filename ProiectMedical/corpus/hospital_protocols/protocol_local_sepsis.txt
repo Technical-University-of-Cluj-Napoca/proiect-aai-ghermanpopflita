@@ -1,0 +1,5 @@
+Protocol Local de Triaj Spitalul Judetean Cluj - Sepsis si Soc Septic
+Criterii locale de internare in sectia de Terapie Intensiva (ATI):
+Pacientul cu suspiciune de sepsis (infectie + febra/hipotermie + qSOFA >= 2) trebuie sa aiba acces la o linie venoasa centrala si monitorizare invaziva a tensiunii arteriale daca nu raspunde la infuzia initiala de 30 ml/kg cristaloid.
+Lactatul de control se recolteaza la 2 ore si la 6 ore. Daca lactatul scade cu mai putin de 10% la 2 ore, se reevalueaza administrarea de vasopresoare (Noradrenalina, doza de start 0.05 mcg/kg/min).
+Evidence Level: C

@@ -1,0 +1,4 @@
+PMID: 34567890
+Title: Risk Stratification and Endoscopic Management of Upper Gastrointestinal Bleeding.
+Abstract: Acute upper gastrointestinal bleeding (hemoragie digestiva superioara) presents as hematemesis (vomiting blood), melena (black, tarry stools), or hematochezia in cases of massive hemorrhage. Hemodynamic instability is defined by systolic blood pressure < 90 mmHg and heart rate > 100 bpm. The Glasgow-Blatchford Score (GBS) is used to predict the need for clinical intervention or mortality, utilizing blood urea, hemoglobin, systolic BP, pulse, melena, syncope, hepatic disease, and cardiac failure. Early endoscopy (within 24 hours) is recommended. Hemostatic therapies include adrenaline injection, thermal coagulation, and endoscopic clips.
+Evidence Level: A

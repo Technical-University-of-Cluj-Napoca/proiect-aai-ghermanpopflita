@@ -1,0 +1,4 @@
+PMID: 31234567
+Title: Management of Acute Asthma Exacerbations in Adults according to GINA.
+Abstract: Acute asthma exacerbations represent an acute worsening of symptoms (dyspnea, wheezing, cough, chest tightness) and decrease in expiratory lung function (PEF or FEV1). The Global Initiative for Asthma (GINA) guidelines classify exacerbation severity. Severe exacerbations are characterized by: talks in words, sits hunched forward, agitated, respiratory rate > 30 breaths/min, accessory muscle use, heart rate > 120 bpm, and oxygen saturation (SpO2) < 90% on room air. Immediate therapy includes repeated administration of inhaled short-acting beta2-agonists (SABA), early systemic corticosteroids (oral or IV), and controlled oxygen therapy to maintain SpO2 between 93-95% in adults.
+Evidence Level: B

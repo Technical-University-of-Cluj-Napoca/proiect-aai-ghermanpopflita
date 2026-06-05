@@ -1,0 +1,9 @@
+Protocol National de Diagnostic si Tratament in Accidentul Vascular Cerebral Ischemic Acut
+Ministerul Sanatatii Romania, Ghidul 2024
+Algoritm de Triage si Diagnostic:
+1. Identificare clinica rapida prin scala FAST: Fata asimetrica (Face droop), Arm weakness (deficit motor membru superior), Speech (tulburare de vorbire), Time (timpul de la debut).
+2. Transport de urgenta la cea mai apropiata unitate spitaliceasca capabila sa efectueze CT cerebral si tromboliza.
+3. Evaluare imediata la sosire: CT cerebral nativ de urgenta in primele 20-30 de minute pentru a exclude o hemoragie cerebrala (contraindicatie absoluta pentru tromboliza).
+4. Fereastra terapeutica pentru Tromboliza IV (cu Actilyse / Alteplase): maxim 4.5 ore de la debutul primelor simptome. Doza: 0.9 mg/kg (maxim 90 mg), din care 10% in bolus IV si restul in infuzie continua timp de 60 de minute.
+5. Clasificare de urgenta: CRITIC. Orice intarziere creste riscul de dizabilitate majora.
+Evidence Level: A

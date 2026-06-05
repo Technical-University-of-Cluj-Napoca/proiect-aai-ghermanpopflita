@@ -1,0 +1,4 @@
+PMID: 30789012
+Title: Electrocardiographic Criteria and Troponin Dynamics in Acute Myocardial Infarction.
+Abstract: Acute myocardial infarction is classified into ST-elevation myocardial infarction (STEMI) and non-ST-elevation myocardial infarction (NSTEMI). STEMI is characterized by persistent ST-segment elevation in at least two contiguous leads on EKG (>= 0.1 mV in all leads other than V2-V3 where specific age and sex cutoffs apply: >= 0.2 mV in men >= 40 years, >= 0.25 mV in men < 40 years, and >= 0.15 mV in women). Emergency reperfusion therapy via Primary Percutaneous Coronary Intervention (PCI) is indicated within 120 minutes of STEMI diagnosis. NSTEMI is characterized by acute chest pain, persistent or transient ST-segment depression, T-wave inversion, and a dynamic rise and fall of high-sensitivity cardiac troponin (hs-cTn) above the 99th percentile URL.
+Evidence Level: A

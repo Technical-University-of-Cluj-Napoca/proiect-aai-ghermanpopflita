@@ -1,0 +1,7 @@
+ICD-11 Classification of Infectious Diseases - Sepsis
+Code: 1G40 - Sepsis
+Definition: Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection. It is associated with high mortality.
+1G40.0 - Sepsis without septic shock: Organ dysfunction present, indicated by a SOFA score increase of 2 points or more.
+1G40.1 - Septic shock: Sepsis with persistent hypotension requiring vasopressors to maintain MAP >= 65 mmHg and serum lactate level > 2 mmol/L despite adequate fluid resuscitation.
+Associated conditions: Pneumonia, urinary tract infection, abdominal infection, meningitis.
+Evidence Level: B

@@ -1,0 +1,4 @@
+PMID: 35678901
+Title: International Classification of Headache Disorders: Diagnostic Criteria for Migraine.
+Abstract: According to the International Headache Society (IHS), migraine without aura is diagnosed when a patient has at least 5 attacks fulfilling the following criteria: headache attacks lasting 4-72 hours (untreated or unsuccessfully treated); headache has at least two of the following characteristics: unilateral location, pulsating quality, moderate or severe pain intensity, aggravation by or causing avoidance of routine physical activity; during headache at least one of the following is present: nausea and/or vomiting, photophobia and phonophobia. Red flags for acute severe headache (cefalee severa) include sudden onset ('thunderclap' headache), fever, neck stiffness (meningism), focal neurological deficits, and onset after age 50, which require urgent head imaging (CT/MRI) to exclude subarachnoid hemorrhage.
+Evidence Level: B
