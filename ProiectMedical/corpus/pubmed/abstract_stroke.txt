@@ -1,0 +1,4 @@
+PMID: 32345678
+Title: Acute Ischemic Stroke Diagnosis and Reperfusion Windows.
+Abstract: Acute ischemic stroke (AVC ischemic) presents with sudden neurological deficits including hemiparesis, facial droop, dysarthria, and altered level of consciousness. Diagnostic confirmation requires urgent non-contrast Head CT to rule out hemorrhagic stroke. The therapeutic window for intravenous thrombolysis with recombinant tissue plasminogen activator (rtPA, Alteplase) is within 4.5 hours of symptom onset. Endovascular mechanical thrombectomy is indicated for large vessel occlusion within 6 to 24 hours of onset. Neurological status is monitored using the National Institutes of Health Stroke Scale (NIHSS) and the Glasgow Coma Scale (GCS). GCS scores <= 8 represent severe impairment and necessitate airway protection.
+Evidence Level: A

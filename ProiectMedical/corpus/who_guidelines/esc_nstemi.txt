@@ -1,0 +1,10 @@
+2024 ESC Guidelines for the Management of Acute Coronary Syndromes in Patients Presenting without Persistent ST-Segment Elevation (NSTEMI)
+European Society of Cardiology (ESC) Official Guidelines
+Diagnostic Algorithm (0h/1h or 0h/2h hs-cTn):
+NSTEMI is suspected when a patient presents with acute chest pain, but without persistent ST-segment elevation on EKG.
+The primary diagnostic tool is high-sensitivity cardiac troponin T or I (hs-cTnT/I), which must be measured at presentation (0h) and 1 hour (or 2 hours) later.
+- Rule-out criteria: Baseline hs-cTn is very low, or low and does not change significantly at 1h.
+- Rule-in criteria: Baseline hs-cTn is elevated, or shows a dynamic increase at 1h.
+Treatment and Risk Stratification:
+Very high-risk patients (hemodynamic instability, cardiogenic shock, recurrent chest pain refractory to treatment, life-threatening arrhythmias) require an immediate invasive coronary angiography (within 2 hours). High-risk patients (dynamic troponin changes, ST-segment changes) require early invasive angiography within 24 hours.
+Evidence Level: A

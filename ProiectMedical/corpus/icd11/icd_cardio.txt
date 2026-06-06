@@ -1,0 +1,7 @@
+ICD-11 Classification of Diseases - Cardiovascular System
+Code: BA41.0 - Acute Myocardial Infarction
+BA41.01 - Acute ST elevation myocardial infarction (STEMI): An acute coronary syndrome characterized by chest pain, persistent ST-segment elevation on EKG, and subsequent elevation of cardiac biomarkers (troponin).
+BA41.02 - Acute non-ST elevation myocardial infarction (NSTEMI): Characterized by ischemic chest discomfort, no ST-segment elevation (but potentially ST-segment depression or T-wave inversion), and significant cardiac troponin release.
+Emergency Code: LA22.0 - Cardiac Arrest.
+Diagnostic criteria: Chest pain radiating to the left arm or jaw, dyspnea, diaphoresis (sweating), nausea. EKG shows ST elevation >= 1mm in contiguous limb leads, or >= 2mm in precordial leads.
+Evidence Level: B

@@ -1,0 +1,14 @@
+pydantic>=2.0.0
+langchain>=0.1.0
+langchain-openai>=0.0.8
+langchain-community>=0.0.19
+langgraph>=0.0.26
+chromadb>=0.4.22
+pdfplumber>=0.10.3
+streamlit>=1.31.0
+ragas>=0.1.0
+matplotlib>=3.8.0
+python-dotenv>=1.0.1
+biopython>=1.81
+ipykernel
+pandas

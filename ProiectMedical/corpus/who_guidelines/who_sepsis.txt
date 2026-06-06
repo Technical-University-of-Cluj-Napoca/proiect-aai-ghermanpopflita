@@ -1,0 +1,10 @@
+WHO Guidelines for the Prevention, Diagnosis and Treatment of Sepsis
+Document Code: WHO/UHC/2026.01
+Summary of Recommendations:
+Sepsis is a medical emergency. The WHO recommends utilizing the qSOFA (quick Sequential Organ Failure Assessment) score for rapid screening in outpatient or emergency departments.
+qSOFA scoring criteria:
+1. Respiratory rate >= 22 breaths per minute.
+2. Altered mental status (Glasgow Coma Scale score < 15).
+3. Systolic blood pressure <= 100 mmHg.
+If a patient meets 2 or more of these criteria, they are at high risk of death or prolonged ICU stay and require immediate escalation: blood cultures, lactate measurement, IV fluid resuscitation (30 mL/kg of crystalloid), and broad-spectrum antibiotics within the first hour of triage.
+Evidence Level: A

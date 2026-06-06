@@ -1,0 +1,14 @@
+WHO Clinical Protocols for the Management of Coma and Altered Consciousness
+Document Code: WHO/MNH/NEUR.2024.3
+Management of Altered Consciousness and Coma:
+Assessment of altered consciousness must begin with airway, breathing, and circulation (ABC). Neurological evaluation utilizes the Glasgow Coma Scale (GCS).
+Glasgow Coma Scale:
+- Eye opening: 1 (none) to 4 (spontaneous)
+- Verbal response: 1 (none) to 5 (oriented)
+- Motor response: 1 (none) to 6 (obeys commands)
+GCS categorization:
+- Mild: 13-15
+- Moderate: 9-12
+- Severe (Coma): <= 8
+Immediate escalation is mandatory for GCS <= 8 (requires endotracheal intubation to protect the airway), sudden pupil asymmetry, or signs of herniation. Hypoglycemia must be ruled out by checking capillary blood glucose in all patients.
+Evidence Level: A

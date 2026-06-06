@@ -1,0 +1,7 @@
+WHO/GOLD Global Strategy for the Diagnosis and Management of COPD
+Document Code: WHO/NCD/GOLD.2025
+Key Diagnostic Criteria:
+Chronic Obstructive Pulmonary Disease (COPD) should be considered in any patient who has dyspnea, chronic cough or sputum production, and a history of exposure to risk factors (smoking, biomass fuels).
+Spirometry is required to make the diagnosis; a post-bronchodilator FEV1/FVC < 0.70 confirms persistent airflow limitation.
+Acute exacerbation of COPD is defined as an acute worsening of respiratory symptoms that results in additional therapy. Severe exacerbations are marked by severe dyspnea, use of accessory respiratory muscles, worsening hypoxemia (SpO2 < 90%), or respiratory acidosis. Hospitalization and immediate therapy with short-acting bronchodilators, systemic corticosteroids, oxygen therapy, and non-invasive positive pressure ventilation (NIPPV) are indicated.
+Evidence Level: A

@@ -1,0 +1,9 @@
+Protocol National pentru Infarctul Miocardic Acut cu Supradenivelare de Segment ST (STEMI)
+Ministerul Sanatatii Romania, Ghidul Oficial 2024
+Criterii de diagnostic si conduita terapeutica:
+1. Simptome clinice: Durere toracica anterioara intensa, cu caracter de strivire sau gheara, cu durata > 20 de minute, care nu cedeaza la nitroglicerina sublingual. Poate radia in bratul stang, gat sau mandibula.
+2. EKG obligatoriu in primele 10 minute de la primul contact medical: Supradenivelare de segment ST masurata la punctul J in cel putin doua derivatii contigue de >= 1 mm (sau >= 2 mm in derivatiile V2-V3 la barbati si >= 1.5 mm la femei) sau bloc de ramura stanga (BRS) nou aparut.
+3. Tratament imediat: Aspirina 150-300 mg masticabil + Clopidogrel 300-600 mg (sau Ticagrelor 180 mg) + Heparina nefractionata IV 70-100 UI/kg.
+4. Reperfuzie de urgenta: Angioplastie coronariana primara (PCI) indicata imediat daca timpul pana la PCI este sub 120 de minute de la diagnostic. Altfel, se initiaza fibrinoliza (Alteplaza sau Tenecteplaza) in primele 10 minute.
+Clasificare de urgenta: CRITIC.
+Evidence Level: A

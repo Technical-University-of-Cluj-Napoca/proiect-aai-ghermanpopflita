@@ -1,0 +1,4 @@
+PMID: 33456789
+Title: Diagnostic Accuracy of Alvarado Score in Acute Appendicitis.
+Abstract: Acute appendicitis is a leading cause of acute abdominal pain. The Alvarado scoring system is a clinical tool used to estimate appendicitis probability. The score components include: migration of pain to the right lower quadrant (1 point), anorexia (1 point), nausea/vomiting (1 point), tenderness in the right lower quadrant (2 points), rebound tenderness (1 point), elevated temperature >= 37.3°C (1 point), leukocytosis (2 points), and neutrophilic shift to the left (1 point). A total score of >= 7 indicates a high probability of appendicitis and warrants surgical consultation. Ultrasound and abdominal CT are key discriminating investigations.
+Evidence Level: B
